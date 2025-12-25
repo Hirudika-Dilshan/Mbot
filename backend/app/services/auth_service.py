@@ -36,3 +36,4 @@ async def create_user(db: AsyncIOMotorDatabase, user: UserCreate) -> UserPublic:
     )
 
 
+
